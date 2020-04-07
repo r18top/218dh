@@ -104,7 +104,7 @@ body{ font-family:'Microsoft Yahei',Tahoma,Simsun; background-color:#eee; font-s
 .box .box_list{ width:1060px; padding:18px 20px;}
 .box .box_list li{ height:30px; width:176px; margin:3px 0; float:left; position:relative; overflow:hidden;}
 .box .box_list li div{ height:30px; width:176px;}
-.box .box_list li a{ display:block; height:30px; width:176px; line-height:30px; text-indent:30px; text-transform:capitalize; background:url(point.png) 7px center no-repeat; background-size:16px 16px; font-size:15px; position:absolute; left:0; top:0; overflow:hidden;}
+.box .box_list li a{ display:block; height:30px; width:176px; line-height:30px; text-indent:30px; text-transform:capitalize; background:url(../img/point.png) 7px center no-repeat; background-size:16px 16px; font-size:15px; position:absolute; left:0; top:0; overflow:hidden;}
 .box .box_list li a:hover{ color:#FFF;}
 .box .box_list li a.hot{ background:url(../img/hot.png) 7px center no-repeat;}
 
